@@ -12,7 +12,7 @@ public class GitClass {
 		for(String lang:arr1){
 		list.add(lang);
 		}
-		System.out.println("Printing List: "+list);
+		System.out.println("Printingnew  List: "+list);
 
 	}
 
