@@ -14,7 +14,7 @@ public class GitClass {
 		}
 		System.out.println("Printing List: "+list);
 
-		}
+	}
 
 	}
 
